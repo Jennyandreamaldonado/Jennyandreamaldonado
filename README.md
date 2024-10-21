@@ -1,6 +1,6 @@
 # Hola, soy Jenny Andrea 👨‍💻👩‍💻
 
-![Profile Banner](https://example.com/tu-imagen-de-banner.jpg)
+
 
 ### Sobre Mí
 
@@ -46,4 +46,4 @@ sistemas electrónicos y de comunicación..
 - [LinkedIn](https://linkedin.com/in/jenny-maldonado)
 - [GitHub](https://github.com/jennyandreamaldonado )
 
-![Footer Image](https://example.com/tu-imagen-de-footer.jpg)
+
