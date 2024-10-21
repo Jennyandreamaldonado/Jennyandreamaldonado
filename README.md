@@ -43,7 +43,7 @@ sistemas electrónicos y de comunicación..
 
 ### Encuéntrame en:
 
-- [LinkedIn](https://linkedin.com/in/jenny-maldonado)
+- [LinkedIn](https://www.linkedin.com/in/jenny-maldonado-26b74673/?trk=eml-email_notification_single_search_appearance_01-header-0-profile_glimmer))
 - [GitHub](https://github.com/jennyandreamaldonado )
 
 
