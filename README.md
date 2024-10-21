@@ -8,10 +8,9 @@ Ingeniera Electronica de la Universitaria de Investigación y Desarrollo de Colo
 sistemas electrónicos y de comunicación..
 
 - 🔭 Actualmente trabajando en: SCADA ING SERVICES SAS
-- 🌱 Aprendiendo: [Tecnología o Habilidad]
-- 👯 Buscando colaborar en: [Tipo de Proyecto]
+- 🌱 Aprendiendo: Fundamentos en Bases de Datos con MySQL
 - 📫 Cómo contactarme: ingjennymaldonado@gmail.com
-- 🌐 Sitio web: [Tu Sitio Web]
+  
 
 ### Habilidades
 
@@ -44,8 +43,7 @@ sistemas electrónicos y de comunicación..
 
 ### Encuéntrame en:
 
-- [LinkedIn](https://linkedin.com/in/tu-usuario)
-- [Twitter](https://twitter.com/tu-usuario)
-- [GitHub](https://github.com/tu-usuario)
+- [LinkedIn](https://linkedin.com/in/jenny-maldonado)
+- [GitHub](https://github.com/jennyandreamaldonado )
 
 ![Footer Image](https://example.com/tu-imagen-de-footer.jpg)
